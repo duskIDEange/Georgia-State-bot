@@ -1,0 +1,154 @@
+{
+  "1176361126578094080": [
+    {
+      "reason": "Test",
+      "warnedBy": "godlygucci",
+      "date": "2024-08-07T06:32:00.871Z"
+    },
+    {
+      "reason": "Test",
+      "warnedBy": "godlygucci",
+      "date": "2024-08-07T06:37:11.667Z"
+    }
+  ],
+  "773541293795704842": [
+    {
+      "reason": "Being over the servers weight limi (please lose weight to be able to talk)",
+      "warnedBy": "accountdeleted3577",
+      "date": "2024-08-07T07:19:06.716Z"
+    }
+  ],
+  "1233214701031133206": [
+    {
+      "reason": "Advertising to members in dms.",
+      "warnedBy": "accountdeleted3577",
+      "date": "2024-08-07T07:30:16.261Z"
+    }
+  ],
+  "1245178290658873396": [
+    {
+      "reason": "Advertising to members in DMS.",
+      "warnedBy": "accountdeleted3577",
+      "date": "2024-08-07T07:34:26.959Z"
+    }
+  ],
+  "1004797258866364546": [
+    {
+      "action": "warn",
+      "reason": "Adveristing",
+      "warnedBy": "707706372053008557",
+      "date": "2024-08-07T21:24:13.526Z"
+    },
+    {
+      "action": "timeout",
+      "duration": 5,
+      "reason": "Adveristing",
+      "timedOutBy": "accountdeleted3577",
+      "date": "2024-08-07T21:26:15.170Z"
+    }
+  ],
+  "439704012745474058": [
+    {
+      "action": "ban",
+      "reason": "NSFW",
+      "bannedBy": "accountdeleted3577",
+      "date": "2024-08-08T00:20:57.600Z"
+    }
+  ],
+  "1268428128879906966": [
+    {
+      "action": "warn",
+      "reason": "Use emoji as nwft",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-08T03:45:39.689Z"
+    }
+  ],
+  "584802823615676589": [
+    {
+      "action": "warn",
+      "reason": "Spamming emoji",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-08T03:45:58.643Z"
+    }
+  ],
+  "663577289358966784": [
+    {
+      "action": "warn",
+      "reason": "Disrespect to members",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-08T03:47:19.240Z"
+    },
+    {
+      "action": "timeout",
+      "duration": 5,
+      "reason": "Disrespecting member with emoji",
+      "timedOutBy": "godlygucci",
+      "date": "2024-08-08T03:47:46.138Z"
+    }
+  ],
+  "1057587409384128532": [
+    {
+      "action": "warn",
+      "reason": "Trying to ping currently moderating for no reason.",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-08T22:00:47.773Z"
+    }
+  ],
+  "1120502717299830794": [
+    {
+      "action": "warn",
+      "reason": "Disrespctful.",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-09T05:09:08.482Z"
+    }
+  ],
+  "1179152918667087873": [
+    {
+      "action": "timeout",
+      "duration": 20,
+      "reason": "Spamming",
+      "timedOutBy": "godlygucci",
+      "date": "2024-08-18T05:03:27.390Z"
+    }
+  ],
+  "1236425901508395090": [
+    {
+      "action": "warn",
+      "reason": "Rule 1",
+      "warnedBy": "707706372053008557",
+      "date": "2024-08-18T19:32:30.082Z"
+    }
+  ],
+  "1243917369970135133": [
+    {
+      "action": "warn",
+      "reason": "False ticket.",
+      "warnedBy": "707706372053008557",
+      "date": "2024-08-20T04:45:49.626Z"
+    }
+  ],
+  "707706372053008557": [
+    {
+      "action": "warn",
+      "reason": "nobody cares bud",
+      "warnedBy": "1176361126578094080",
+      "date": "2024-08-26T01:55:35.237Z"
+    }
+  ],
+  "777238393422741565": [
+    {
+      "action": "warn",
+      "reason": "black",
+      "warnedBy": "707706372053008557",
+      "date": "2024-08-31T07:37:45.556Z"
+    }
+  ],
+  "748584040507899995": [
+    {
+      "action": "ban",
+      "reason": "Trolling and making up stuff which is none is true.",
+      "bannedBy": "godlygucci",
+      "date": "2024-09-04T01:59:45.901Z"
+    }
+  ]
+}

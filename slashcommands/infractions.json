@@ -1,0 +1,552 @@
+[
+    {
+        "id": 4,
+        "userId": "696896216616927313",
+        "reason": "Failed Probation",
+        "type": "Terminated",
+        "date": "2024-09-24T20:04:55.737Z",
+        "expiration": 1729022695,
+        "issuerId": "707706372053008557",
+        "notes": "May re apply."
+    },
+    {
+        "id": 1,
+        "userId": "1287949122246283337",
+        "reason": "Discord TOS.",
+        "type": "Demotion",
+        "date": "2024-09-29T05:15:11.894Z",
+        "expiration": 1729401311,
+        "issuerId": "707706372053008557",
+        "notes": "You are also suspended for the next 3 days, 72 hours. This is a very light punishment."
+    },
+    {
+        "id": 18,
+        "userId": "804678456914346016",
+        "reason": "Discord TOS.",
+        "type": "Demotion",
+        "date": "2024-09-29T05:15:38.319Z",
+        "expiration": 1729401338,
+        "issuerId": "707706372053008557",
+        "notes": "You are also suspended for the next 3 days, 72 hours. This is a very light punishment."
+    },
+    {
+        "id": 19,
+        "userId": "830597963113562112",
+        "reason": "Unprofessionalism on duty",
+        "type": "Strike",
+        "date": "2024-09-29T17:06:53.348Z",
+        "expiration": 1728839213,
+        "issuerId": "891053582978277440",
+        "notes": "Don't shoot uniformed staff members and use commands to get away from them."
+    },
+    {
+        "id": 21,
+        "userId": "1111681279449124895",
+        "reason": "Not using SPaG",
+        "type": "Notice",
+        "date": "2024-09-29T17:16:03.539Z",
+        "expiration": 1728839763,
+        "issuerId": "1176361126578094080",
+        "notes": "Please use SPaG while dealing mod call. Like as periods and creating full sentences."
+    },
+    {
+        "id": 22,
+        "userId": "1235702977482981458",
+        "reason": "Unprofessionalism on duty",
+        "type": "Warning",
+        "date": "2024-09-29T17:30:13.672Z",
+        "expiration": 1728840613,
+        "issuerId": "891053582978277440",
+        "notes": "None"
+    },
+    {
+        "id": 28,
+        "userId": "527208391811137567",
+        "reason": "Unprofessionalism on duty",
+        "type": "Warning",
+        "date": "2024-09-29T17:30:28.653Z",
+        "expiration": 1728840628,
+        "issuerId": "891053582978277440",
+        "notes": "None"
+    },
+    {
+        "id": 29,
+        "userId": "1235702977482981458",
+        "reason": "Failing to verify a user as a booster and warning for such.",
+        "type": "Warning",
+        "date": "2024-09-29T17:37:52.688Z",
+        "expiration": 1728841072,
+        "issuerId": "1048812840384987136",
+        "notes": "Please check if they are a booster and make warnings in separate logs."
+    },
+    {
+        "id": 30,
+        "userId": "1225492135281819689",
+        "reason": "VDM/Unprofessionalism on duty",
+        "type": "Strike",
+        "date": "2024-09-29T20:33:19.675Z",
+        "expiration": 1728851599,
+        "issuerId": "891053582978277440",
+        "notes": "None"
+    },
+    {
+        "id": 2,
+        "userId": "830597963113562112",
+        "reason": "Has reached 5 infractions",
+        "type": "Suspended",
+        "date": "2024-09-30T01:26:58.785Z",
+        "expiration": 1729474018,
+        "issuerId": "707706372053008557",
+        "notes": "You are suspended for reaching over 5 infractions, this is your warning, you may not mod for the next 3 days."
+    },
+    {
+        "id": 24,
+        "userId": "1192922264967061707",
+        "reason": "Failure to meet Quota.",
+        "type": "Warning",
+        "date": "2024-09-30T16:39:06.909Z",
+        "expiration": 1728923946,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 31,
+        "userId": "819370129321099315",
+        "reason": "Failure to meet Quota.",
+        "type": "Warning",
+        "date": "2024-09-30T16:40:07.069Z",
+        "expiration": 1728924007,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 32,
+        "userId": "1248702809998884894",
+        "reason": "Failure to meet Quota.",
+        "type": "Strike",
+        "date": "2024-09-30T16:41:42.560Z",
+        "expiration": 1728924102,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 33,
+        "userId": "1248702809998884894",
+        "reason": "Inactive; You haven been inactive two weeks.",
+        "type": "Terminated",
+        "date": "2024-09-30T19:55:22.516Z",
+        "expiration": 1729540522,
+        "issuerId": "1176361126578094080",
+        "notes": "You may reapply."
+    },
+    {
+        "id": 34,
+        "userId": "1225492135281819689",
+        "reason": "Deemed unfit for staff amongst HR and DT.",
+        "type": "Terminated",
+        "date": "2024-09-30T20:39:42.125Z",
+        "expiration": 1729543182,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 35,
+        "userId": "1216380985042665523",
+        "reason": "Trying to ping everyone in the discord.",
+        "type": "Strike",
+        "date": "2024-10-01T12:51:06.795Z",
+        "expiration": 1728996666,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 36,
+        "userId": "1216380985042665523",
+        "reason": "Minor SPaG issue",
+        "type": "Notice",
+        "date": "2024-10-01T21:00:31.886Z",
+        "expiration": 1729026031,
+        "issuerId": "1048812840384987136",
+        "notes": "Please make sure to use \"you\" and not \"u\"."
+    },
+    {
+        "id": 8,
+        "userId": "1216380985042665523",
+        "reason": "Not fit for staff and unprofessional",
+        "type": "Terminated",
+        "date": "2024-10-02T01:56:19.938Z",
+        "expiration": 1729648579,
+        "issuerId": "870427338754650142",
+        "notes": "None"
+    },
+    {
+        "id": 10,
+        "userId": "1176361126578094080",
+        "reason": "said stfu",
+        "type": "Blacklisted",
+        "date": "2024-10-02T01:57:31.804Z",
+        "expiration": 1729043851,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 12,
+        "userId": "982728634022387753",
+        "reason": "Disrespect",
+        "type": "Notice",
+        "date": "2024-10-02T04:12:49.000Z",
+        "expiration": 1729051969,
+        "issuerId": "1048812840384987136",
+        "notes": "N/A"
+    },
+    {
+        "id": 20,
+        "userId": "1111681279449124895",
+        "reason": "Minor SPaG, Not using 4+ letters for commands.",
+        "type": "Notice",
+        "date": "2024-10-02T23:00:22.653Z",
+        "expiration": 1729119622,
+        "issuerId": "723267697160224778",
+        "notes": "Please remember to use punctuation, and also please remember to use 4+ letters when doing a command on someone!"
+    },
+    {
+        "id": 25,
+        "userId": "870427338754650142",
+        "reason": "Not fit for management, not active enough.",
+        "type": "Demotion",
+        "date": "2024-10-03T15:31:34.751Z",
+        "expiration": 1729783894,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 17,
+        "userId": "1185798880470781962",
+        "reason": "Inactive.",
+        "type": "Terminated",
+        "date": "2024-10-04T12:18:50.400Z",
+        "expiration": 1729858730,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 37,
+        "userId": "1275827676958953554",
+        "reason": "Inactive.",
+        "type": "Terminated",
+        "date": "2024-10-04T12:20:11.797Z",
+        "expiration": 1729858811,
+        "issuerId": "707706372053008557",
+        "notes": "None"
+    },
+    {
+        "id": 38,
+        "userId": "1271908430335967232",
+        "reason": "Inactive.",
+        "type": "Terminated",
+        "date": "2024-10-04T12:24:10.760Z",
+        "expiration": 1729859050,
+        "issuerId": "707706372053008557",
+        "notes": "May re apply."
+    },
+    {
+        "id": 39,
+        "userId": "1216103488812220456",
+        "reason": "Inactive.",
+        "type": "Terminated",
+        "date": "2024-10-04T12:25:28.173Z",
+        "expiration": 1729859128,
+        "issuerId": "707706372053008557",
+        "notes": "May re apply."
+    },
+    {
+        "id": 40,
+        "userId": "1051937942672781464",
+        "reason": "Warning another staff member",
+        "type": "Notice",
+        "date": "2024-10-04T21:22:58.506Z",
+        "expiration": 1729286578,
+        "issuerId": "1048812840384987136",
+        "notes": "Only a notice due to it being a slightly inactive TM, please do verify it next time."
+    },
+    {
+        "id": 13,
+        "userId": "1111681279449124895",
+        "reason": "Unprofessionalism whilst on duty. Failure to use grammar in mod scene.",
+        "type": "Warning",
+        "date": "2024-10-04T23:14:52.679Z",
+        "expiration": 1729293292,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 41,
+        "userId": "1111681279449124895",
+        "reason": "Failure to use SPaG after being told to multiple times by HR. Failure to complete a mod scene correctly.",
+        "type": "Strike",
+        "date": "2024-10-05T01:15:36.168Z",
+        "expiration": 1729300536,
+        "issuerId": "1011300298683326515",
+        "notes": "You've been infracted 3 times for the SPaG now. I want you to improve on this please. I don't want it to happen again."
+    },
+    {
+        "id": 42,
+        "userId": "1280227691429367879",
+        "reason": "Unprofessional for being staff.",
+        "type": "Terminated",
+        "date": "2024-10-05T01:21:23.043Z",
+        "expiration": 1729905683,
+        "issuerId": "1176361126578094080",
+        "notes": "None"
+    },
+    {
+        "id": 43,
+        "userId": "1129301217454084116",
+        "reason": "Shift farming",
+        "type": "Notice",
+        "date": "2024-10-05T22:05:00.680Z",
+        "expiration": 1729375500,
+        "issuerId": "707706372053008557",
+        "notes": "VW."
+    },
+    {
+        "id": 44,
+        "userId": "527208391811137567",
+        "reason": "Failing to follow staff procedures & Losing control of multiple mod scenes.",
+        "type": "Strike",
+        "date": "2024-10-05T22:59:20.334Z",
+        "expiration": 1729378760,
+        "issuerId": "1048812840384987136",
+        "notes": "Please fix the issues stated above."
+    },
+    {
+        "id": 45,
+        "userId": "1116943069678419999",
+        "reason": "Accepting a permisson for corrupt cop.",
+        "type": "Strike",
+        "date": "2024-10-05T23:02:02.603Z",
+        "expiration": 1729378922,
+        "issuerId": "1176361126578094080",
+        "notes": "None"
+    },
+    {
+        "id": 46,
+        "userId": "982728634022387753",
+        "reason": "Failure to use proper SPaG in a mod scene, reckless driving whilst on duty as staff.",
+        "type": "Warning",
+        "date": "2024-10-06T00:58:39.437Z",
+        "expiration": 1729385919,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 47,
+        "userId": "982728634022387753",
+        "reason": "False kick",
+        "type": "Warning",
+        "date": "2024-10-06T02:54:50.676Z",
+        "expiration": 1729392890,
+        "issuerId": "1011300298683326515",
+        "notes": "Thank you for your honesty. Don’t let this happen again."
+    },
+    {
+        "id": 48,
+        "userId": "1051937942672781464",
+        "reason": "Randomly bringing to req a ban.",
+        "type": "Notice",
+        "date": "2024-10-06T17:23:31.263Z",
+        "expiration": 1729445011,
+        "issuerId": "1048812840384987136",
+        "notes": "None"
+    },
+    {
+        "id": 49,
+        "userId": "982728634022387753",
+        "reason": "Violation of discord TOS",
+        "type": "Terminated",
+        "date": "2024-10-06T17:25:10.200Z",
+        "expiration": 1729445110,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 50,
+        "userId": "989246665322008686",
+        "reason": "False kick, failure to use 4+ letters using commands.",
+        "type": "Strike",
+        "date": "2024-10-06T18:34:36.357Z",
+        "expiration": 1729449276,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 51,
+        "userId": "989246665322008686",
+        "reason": "Not fit for staff.",
+        "type": "Terminated",
+        "date": "2024-10-06T18:35:50.672Z",
+        "expiration": 1730054150,
+        "issuerId": "1176361126578094080",
+        "notes": "You may reapply again."
+    },
+    {
+        "id": 52,
+        "userId": "884948675334389781",
+        "reason": "Incredibly Long Probation Period, Inactivity",
+        "type": "Terminated",
+        "date": "2024-10-06T19:06:00.393Z",
+        "expiration": 1730055960,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 54,
+        "userId": "830597963113562112",
+        "reason": "Eight Infraction. Demoted.",
+        "type": "Demotion",
+        "date": "2024-10-06T19:58:55.714Z",
+        "expiration": 1730059135,
+        "issuerId": "1176361126578094080",
+        "notes": "Please do better than this."
+    },
+    {
+        "id": 5,
+        "userId": "1235702977482981458",
+        "reason": "Failure to meet week 8 quota.",
+        "type": "Inactivity Notice",
+        "date": "2024-10-07T23:21:55.991Z",
+        "expiration": 1729552915,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 9,
+        "userId": "844999350659973170",
+        "reason": "Failure to meet week 8 quota.",
+        "type": "Inactivity Notice",
+        "date": "2024-10-07T23:23:34.087Z",
+        "expiration": 1729553014,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 15,
+        "userId": "1014382455341465610",
+        "reason": "Failure to meet week 8 quota.",
+        "type": "Inactivity Notice",
+        "date": "2024-10-07T23:24:24.161Z",
+        "expiration": 1729553064,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 11,
+        "userId": "819370129321099315",
+        "reason": "Failure to meet week 7 and week 8 quotas.",
+        "type": "Strike",
+        "date": "2024-10-07T23:26:45.565Z",
+        "expiration": 1729553205,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 23,
+        "userId": "1060733261694914630",
+        "reason": "Mass Inactivity",
+        "type": "Terminated",
+        "date": "2024-10-07T23:27:29.450Z",
+        "expiration": 1730158049,
+        "issuerId": "723267697160224778",
+        "notes": "None"
+    },
+    {
+        "id": 3,
+        "userId": "1116943069678419999",
+        "reason": "Failure to respond to calls while on duty. (sitting in his car)",
+        "type": "Warning",
+        "date": "2024-10-10T00:44:13.079Z",
+        "expiration": 1729730653,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 6,
+        "userId": "1276986068465487905",
+        "reason": "Failure to use proper SPaG while moderating.",
+        "type": "Notice",
+        "date": "2024-10-10T00:46:58.631Z",
+        "expiration": 1729730818,
+        "issuerId": "1011300298683326515",
+        "notes": "Please fix this."
+    },
+    {
+        "id": 7,
+        "userId": "532923124786921522",
+        "reason": "Minor Rule Break, robbed without perms",
+        "type": "Notice",
+        "date": "2024-10-10T21:19:30.681Z",
+        "expiration": 1729804770,
+        "issuerId": "1048812840384987136",
+        "notes": "None"
+    },
+    {
+        "id": 14,
+        "userId": "761556297082339378",
+        "reason": "Failure to use proper grammar/SPaG while on duty.",
+        "type": "Warning",
+        "date": "2024-10-11T00:48:18.882Z",
+        "expiration": 1729817298,
+        "issuerId": "1011300298683326515",
+        "notes": "None"
+    },
+    {
+        "id": 16,
+        "userId": "1011300298683326515",
+        "reason": "Banning someone when kicked has no reason and didn't investigate",
+        "type": "Strike",
+        "date": "2024-10-11T23:46:47.609Z",
+        "expiration": 1729900007,
+        "issuerId": "1176361126578094080",
+        "notes": "You know better."
+    },
+    {
+        "id": 26,
+        "userId": "1051937942672781464",
+        "reason": "Didn't provide a reason on kick",
+        "type": "Strike",
+        "date": "2024-10-11T23:47:22.649Z",
+        "expiration": 1729900042,
+        "issuerId": "1176361126578094080",
+        "notes": "None"
+    },
+    {
+        "id": 27,
+        "userId": "1129301217454084116",
+        "reason": "Forgetting to end shift.",
+        "type": "Warning",
+        "date": "2024-10-12T00:35:05.911Z",
+        "expiration": 1729902905,
+        "issuerId": "1011300298683326515",
+        "notes": "If this is a mistake, open a ticket or if something happened."
+    },
+    {
+        "id": 53,
+        "userId": "1048812840384987136",
+        "reason": "Reviewing; showed someone picture without their permission",
+        "type": "Under Investigation",
+        "date": "2024-10-12T02:07:08.976Z",
+        "expiration": 1730513228,
+        "issuerId": "1176361126578094080",
+        "notes": "None"
+    },
+    {
+        "id": 55,
+        "userId": "1048812840384987136",
+        "reason": "Retirement after a big infraction.",
+        "type": "Blacklisted",
+        "date": "2024-10-12T03:19:01.195Z",
+        "expiration": 1729912741,
+        "issuerId": "1176361126578094080",
+        "notes": "None"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "prefix": "!",
+  "welcome": {
+    "channelId": "1265080609450233867",
+    "message": "<:Halloween23GSRP:1289375215553347707> Welcome <@{member}> to **Georgia State Roleplay**! We are now at **{memberCount} members**!"
+  },
+  "channels": {
+    "logs": "1307542694414778408",
+    "alerts": "1307542694414778408",
+    "welcome": "1265080609450233867"
+  },
+  "roles": {
+    "admin": "1178444979153145866",
+    "staff": "1244398079852012812",
+    "member": "1174846678038224996"
+  },
+  "emojis": {
+    "success": "✅",
+    "error": "❌",
+    "loading": "⏳"
+  },
+  "colors": {
+    "primary": "#2d2d31",
+    "success": "#43b581",
+    "error": "#f04747",
+    "warning": "#faa61a"
+  }
+}
